@@ -33,7 +33,6 @@
 ### 1.3 技术实现
 
 - Java Web 框架：SpringBoot
-
 - 数据库：MySQL 5.6 + Redis
 - 服务器：Centos 7.3
 - 移动端实现：微信小程序
