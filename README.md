@@ -44,7 +44,6 @@
 
 - 需求分析，前后台技术栈方案制定
 - 数据库设计、定时备份、Redis缓存
-
 - Java 后台 RESTful API 接口开发（实现 JWT 接口验证）
 - HTTPS 证书配置、Nginx 代理
 - Linux 正式、测试服务器搭建、Docker 容器配置
@@ -63,11 +62,7 @@
 ### 1.7 项目代码
 
 ```powershell
-PS D:\dev> .\cloc-1.76.exe .\mango_server\
-     435 text files.
-     310 unique files.
-     235 files ignored.
-github.com/AlDanial/cloc v 1.76  T=1.00 s (297.0 files/s, 31021.0 lines/s)
+T=1.00 s (297.0 files/s, 31021.0 lines/s)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
