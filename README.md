@@ -62,7 +62,8 @@
 ### 1.7 项目代码
 
 ```powershell
-T=1.00 s (297.0 files/s, 31021.0 lines/s)
+PS D:\dev> .\cloc-1.76.exe .\mango_server\
+github.com/AlDanial/cloc v 1.76  T=1.00 s (297.0 files/s, 31021.0 lines/s)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
