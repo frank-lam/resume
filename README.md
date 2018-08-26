@@ -47,29 +47,67 @@
 - 数据库设计、定时备份、Redis缓存
 
 - Java 后台 RESTful API 接口开发（实现 JWT 接口验证）
-- HTTPS 证书配置、万网域名配置
-- Linux 正式、测试服务器搭建
+- HTTPS 证书配置、Nginx 代理
+- Linux 正式、测试服务器搭建、Docker 容器配置
 - 对接第三方接口平台（包括：微信支付、银行卡四要素验证、短信服务）
 - 后台实现定时任务、短信消息队列
 - 业务逻辑、流程图
 
 ### 1.5 项目难点
 
-
+- 暂时还没想好
 
 ### 1.6 项目优化
 
+- 待完善
 
+### 1.7 项目代码
 
-### 1.7 项目展示
+```powershell
+PS D:\dev> .\cloc-1.76.exe .\mango_server\
+     435 text files.
+     310 unique files.
+     235 files ignored.
+github.com/AlDanial/cloc v 1.76  T=1.00 s (297.0 files/s, 31021.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JavaScript                      66            370            790           6539
+Java                            90           1620           2633           6331
+XML                            120              0              0           5078
+JSON                             5              3              0           4787
+SQL                              1             20             57            787
+HTML                             2             63              0            607
+CSS                              4             98             37            492
+Bourne Shell                     1             29             51            145
+DOS Batch                        2             32              0            114
+Maven                            1             36             53            110
+Markdown                         3             16              0             64
+YAML                             2              8              0             51
+-------------------------------------------------------------------------------
+SUM:                           297           2295           3621          25105
+-------------------------------------------------------------------------------
+```
+
+### 1.8 项目展示
 
 接口文档（使用 `apidoc` 工具编写）
 
 - [RESTful API在线文档](https://api.chengchijinfu.com/mango/apidoc/index.html)
 
+
+
 小程序移动端入口（二维码）
 
 <div align="left"><img src="assets/5b32e5171c1ad.jpg" width="250"/></div>
+
+
+
+移动端截图
+
+<div align="left"><img src="assets/mango_wx.jpg" width=""/></div>
+
+
 
 系统后台截图
 
