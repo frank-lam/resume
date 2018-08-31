@@ -2,6 +2,7 @@ This file used to generate gitbook catalogue.
 
 # Summary
 
+* [前言](README.md)
 * [项目目录](items/menu.md)
   * [1. 在线存证平台](items/1在线存证平台.md)
   * [2. 信息化考勤](items/2信息化考勤.md)
