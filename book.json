@@ -1,0 +1,21 @@
+{
+    "title": "林立城-Frank-项目说明",
+    "description": "这里是我的简历项目说明",
+    "author": "Frank Lam",
+    "language": "zh-hans",
+    "root": ".",
+
+    "plugins": [
+        "github-buttons@2.1.0"
+    ],
+
+    "pluginsConfig": {
+        "github-buttons": {
+            "repo": "frank-lam/2019_campus_apply",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        }
+    }
+}
